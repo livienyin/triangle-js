@@ -1,3 +1,4 @@
+// Heron's triangle area formula
 // s = perimeter/2
 
 function triangle(sideA, sideB, sideC) {
